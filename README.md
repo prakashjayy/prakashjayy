@@ -15,7 +15,7 @@ My name is Prakash,
 Working as Senior Data scientist at [Qure.AI](https://qure.ai/),
 
 ### About me 🕴️
-I am mostly looking at some data and trying to make sense of it. I would like to call myself a `Data Scientist & Engineer`. I expertise in **Machine learning** and **Deep learning**. I use `Python` for writing code and always trying to make myself 1% better at it. I extensively document my work and love to look at the code I have written on `GitHub` (only). 
+I would like to call myself a `Data Scientist & Engineer`. I expertise in **Machine learning** and **Deep learning**. I use `Python` for writing code and always try to make myself 1% better at it. I extensively document my work and like to look at the code I have written on `GitHub` (only). 
 
 I expertise in `Computer vision` and solved different problems using Retail, satellite, medical & document images. Also have keen interest in time series forecasting and recommendation systems. 
 
