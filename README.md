@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://twitter.com/14prakash">
+  <img align="left" alt="Prakash Jay | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/prakash-vanapalli-99909b3a/">
+  <img align="left" alt="PrakashJay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 <!--
 **prakashjayy/prakashjayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
