@@ -17,7 +17,7 @@ Working as Senior Data scientist at [Qure.AI](https://qure.ai/),
 ### About me 🕴️
 I would like to call myself a `Data Scientist & Engineer`. I expertise in **Machine learning** and **Deep learning**. I use `Python` for writing code and always try to make myself 1% better at it. I extensively document my work and like to look at the code I have written on `GitHub` (only). 
 
-I expertise in `Computer vision` and solved different problems using Retail, satellite, medical & document images. Also have keen interest in time series forecasting and recommendation systems. 
+I expertise in `Computer vision` and solved different problems in Retail, satellite, medical & document domain. Also have keen interest in time series forecasting and recommendation systems. 
 
 ### 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘 🔨
 Lately I am in love with Bayesian stats and poking my head around it. U can expect some of my understandings and work to get published in the form of blogs soon 🤞
