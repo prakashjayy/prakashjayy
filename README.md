@@ -1,18 +1,19 @@
 ### Hi there 👋
 
+My name is Prakash,
+
+Director- Data science at [Qure.AI](https://qure.ai/), You can find me at 
+
 <a href="https://twitter.com/14prakash">
   <img align="left" alt="Prakash Jay | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/prakash-vanapalli-99909b3a/">
   <img align="left" alt="PrakashJay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
-
-![](https://visitor-badge.glitch.me/badge?page_id=prakashjayy)
-
-
-My name is Prakash,
-
-Director- Data science at [Qure.AI](https://qure.ai/),
+<a href="https://medium.com/@14prakash">
+  <img align="left" alt="PrakashJay's Medium blog" width="66px" 
+src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>. 
 
 ### About me 🕴️
 I would like to call myself a `Data Scientist & Engineer`. I expertise in **Machine learning** and **Deep learning**. I use `Python` for writing code and always try to make myself 1% better at it. I extensively document my work and like to look at the code I have written on `GitHub` (only). 
@@ -20,7 +21,7 @@ I would like to call myself a `Data Scientist & Engineer`. I expertise in **Mach
 I expertise in `Computer vision` and solved different problems in Retail, satellite, medical & document domain. Also have keen interest in time series forecasting and recommendation systems. 
 
 ### 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘 🔨
-I am mostly writing code to process Medical images for various use-cases now at Qure.AI. Lately I am in love with Bayesian stats and poking my head around it. U can expect some of my understandings and work to get published in the form of blogs soon 🤞
+I am mostly writing code to process Medical images for various use-cases now at Qure.AI. 
 
 ### languages and tools  
 <p align="center">
