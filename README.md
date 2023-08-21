@@ -15,13 +15,30 @@ Director- Data science at [Qure.AI](https://qure.ai/), You can find me at
 src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>. 
 
-### About me 🕴️
-I would like to call myself a `Data Scientist & Engineer`. I expertise in **Machine learning** and **Deep learning**. I use `Python` for writing code and always try to make myself 1% better at it. I extensively document my work and like to look at the code I have written on `GitHub` (only). 
+## About me 🕴️
+My name is Prakash, My main area of expertise is in deep learning-Computer vision, At Qure.AI, I focus on developing applications for processing 3D medical data. before this at Fractal.AI, I used to focus on retail and satellite image analytics. 
 
-I expertise in `Computer vision` and solved different problems in Retail, satellite, medical & document domain. Also have keen interest in time series forecasting and recommendation systems. 
+## blogs 
+### object detection 
+- [The intution behind retinanet](https://medium.com/@14prakash/the-intuition-behind-retinanet-eb636755607d)
 
-### 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘 🔨
-I am mostly writing code to process Medical images for various use-cases now at Qure.AI. 
+### image classification  
+- [Classification architecture review Alexnet-SENet](https://medium.com/@14prakash/image-classification-architectures-review-d8b95075998f)
+- Understanding Resnet and Resnext [Part1](https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cf51669e1624) [Part2](https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cc5d0adf648e)
+- [Almost any image classification using Pytorch-2018](https://medium.com/@14prakash/almost-any-image-classification-problem-using-pytorch-i-am-in-love-with-pytorch-26c7aa979ec4)
+- [Transfer learning using keras - 2017](https://medium.com/@14prakash/transfer-learning-using-keras-d804b2e04ef8)
+
+### Competitions 
+- [Using focal loss on deep recommender systems](https://medium.com/@14prakash/using-focal-loss-for-deep-recommender-systems-9a7a87ca6415)
+- [AV-Fractal-hiring hackathon on Forecasting](https://medium.com/@14prakash/loved-moving-averages-should-explore-much-beyond-av-hiring-hackathon-22f5dfa161a0)
+
+### Others
+- [Cutout](https://medium.com/@14prakash/cutout-dropout-in-input-space-albumentations-implementation-87893ffa4884)
+- [Recurrent Neural networks using tensor math](https://medium.com/@14prakash/recurrent-neural-network-using-tensor-maths-af63b95bf7a8)
+- [Back-Propagation is very simple. Who made it Complicated ?](https://medium.com/@14prakash/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c)
+
+### Engineering 
+- [Caffe and docker - 2017](https://medium.com/@14prakash/playing-with-caffe-and-docker-to-build-deep-learning-models-99c9570ffc3d)
 
 ### languages and tools  
 <p align="center">
