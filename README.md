@@ -4,21 +4,23 @@ My name is Prakash,
 
 Director- Data science at [Qure.AI](https://qure.ai/), You can find me at 
 
-<a href="https://twitter.com/14prakash">
-  <img align="left" alt="Prakash Jay | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/prakash-vanapalli-99909b3a/">
-  <img align="left" alt="PrakashJay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> 
-<a href="https://medium.com/@14prakash">
-  <img align="left" alt="PrakashJay's Medium blog" width="66px" 
-src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>. 
+<p align="center">
+  <a href="https://twitter.com/14prakash">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/twitter/white">
+      <img alt="Twitter" title="twitter" height="48" width="48" src="https://cdn.simpleicons.org/twitter"></picture></a>
+  <a href="https://www.linkedin.com/in/prakash-vanapalli-99909b3a/">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+  <a href="https://medium.com/@14prakash">
+    <img alt="npm" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/medium"></a>
+</p>
+
+
 
 ## About me 🕴️
-My name is Prakash, My main area of expertise is in deep learning-Computer vision, At Qure.AI, I focus on developing applications for processing 3D medical data. before this at Fractal.AI, I used to focus on retail and satellite image analytics. 
+My main area of expertise is in deep learning-Computer vision, At Qure.AI, I focus on developing applications for processing 3D medical data. before this at Fractal.AI, I used to focus on retail and satellite image analytics. 
 
-## blogs 
+## Blogs 
 The following blogs are written by me on various platforms. 
 
 ### Foundation models 
