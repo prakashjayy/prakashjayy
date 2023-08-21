@@ -18,7 +18,7 @@ Director- Data science at [Qure.AI](https://qure.ai/), You can find me at
 
 
 ## About me 🕴️
-My main area of expertise is in deep learning-Computer vision, At Qure.AI, I focus on developing applications for processing 3D medical data. before this at Fractal.AI, I used to focus on retail and satellite image analytics. 
+I specialize primarily in deep learning within the field of computer vision. Currently, at Qure.AI, my concentration revolves around crafting solutions for the manipulation of 3D medical data. In my prior role at Fractal.AI, my attention was directed towards both retail and satellite image analytics.
 
 ## Blogs 
 The following blogs are written by me on various platforms. 
