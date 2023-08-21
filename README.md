@@ -19,10 +19,25 @@ src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&
 My name is Prakash, My main area of expertise is in deep learning-Computer vision, At Qure.AI, I focus on developing applications for processing 3D medical data. before this at Fractal.AI, I used to focus on retail and satellite image analytics. 
 
 ## blogs 
+The following blogs are written by me on various platforms. 
+
+### Foundation models 
+- [CLIP](https://github.com/prakashjayy/computer_vision/blob/master/papers/Clip.ipynb)
+  
+### Transformers 
+- [vision transformers](https://github.com/prakashjayy/computer_vision/blob/master/papers/vision_transformers.ipynb)
+
 ### object detection 
+- [Understanding Object detection metrics and errors](https://github.com/prakashjayy/computer_vision/blob/master/papers/Understanding_object_detection_metrics_and_errors.ipynb)
+- [ATSS](https://github.com/prakashjayy/computer_vision/blob/master/papers/ATSS.ipynb)
+- [Fully convolutional one stage object detection](https://github.com/prakashjayy/computer_vision/blob/master/papers/FCOS.ipynb)
+- [Guide to build faster RCNN using PyTorch-2020](https://medium.com/@fractal.ai/guide-to-build-faster-rcnn-in-pytorch-42d47cb0ecd3)
+- [Overview from R-CNN to SSD](https://medium.com/@fractal.ai/an-overview-of-deep-learning-based-object-detection-algorithms-a4565fed042e)
 - [The intution behind retinanet](https://medium.com/@14prakash/the-intuition-behind-retinanet-eb636755607d)
 
 ### image classification  
+- [Structural reparameterization](https://github.com/prakashjayy/computer_vision/blob/master/papers/structural_reparameterization.ipynb)
+- [CSPnet](https://github.com/prakashjayy/computer_vision/blob/master/papers/CSPNet.ipynb)
 - [Classification architecture review Alexnet-SENet](https://medium.com/@14prakash/image-classification-architectures-review-d8b95075998f)
 - Understanding Resnet and Resnext [Part1](https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cf51669e1624) [Part2](https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cc5d0adf648e)
 - [Almost any image classification using Pytorch-2018](https://medium.com/@14prakash/almost-any-image-classification-problem-using-pytorch-i-am-in-love-with-pytorch-26c7aa979ec4)
@@ -33,6 +48,7 @@ My name is Prakash, My main area of expertise is in deep learning-Computer visio
 - [AV-Fractal-hiring hackathon on Forecasting](https://medium.com/@14prakash/loved-moving-averages-should-explore-much-beyond-av-hiring-hackathon-22f5dfa161a0)
 
 ### Others
+- [Intro to self-supervised learning 2020](https://medium.com/@fractal.ai/self-supervised-representation-learning-d76c1e3e9040)
 - [Cutout](https://medium.com/@14prakash/cutout-dropout-in-input-space-albumentations-implementation-87893ffa4884)
 - [Recurrent Neural networks using tensor math](https://medium.com/@14prakash/recurrent-neural-network-using-tensor-maths-af63b95bf7a8)
 - [Back-Propagation is very simple. Who made it Complicated ?](https://medium.com/@14prakash/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c)
