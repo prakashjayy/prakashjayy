@@ -25,6 +25,7 @@ The following blogs are written by me on various platforms.
 
 ### Foundation models 
 - [CLIP](https://github.com/prakashjayy/computer_vision/blob/master/papers/Clip.ipynb)
+- AIM - AutoRegressive Image models [blog](https://medium.com/@14prakash/understanding-autoregressive-image-models-aim-introduced-by-apple-9efd06d097b5) [code](https://github.com/prakashjayy/image_foundations/blob/main/aim/00_blog.ipynb)
   
 ### Transformers 
 - [vision transformers](https://github.com/prakashjayy/computer_vision/blob/master/papers/vision_transformers.ipynb)
