@@ -2,7 +2,11 @@
 
 My name is Prakash,
 
-Director- Data science at [Qure.AI](https://qure.ai/), You can find me at 
+Current - Research Scientist at [invideo.ai](https://ai.invideo.io/), Previously
+- Senior Director - Data science at [qure.ai](https://qure.ai/),
+- Data scientist @ [fractal.ai](https://fractal.ai/)
+
+You can find me at 
 
 <p align="center">
   <a href="https://twitter.com/14prakash">
@@ -18,7 +22,7 @@ Director- Data science at [Qure.AI](https://qure.ai/), You can find me at
 
 
 ## About me 🕴️
-I specialize primarily in deep learning within the field of computer vision. Currently, at Qure.AI, my concentration revolves around crafting solutions for the manipulation of 3D medical data. In my prior role at Fractal.AI, my attention was directed towards both retail and satellite image analytics.
+I have a considerbly experience working on Deep learning. Presently my work focuses on generative AI in speech and vision space. At Qure I worked on medical imaging and prior to that at Fractal I worked on image analytics in the domain of satellite and retail. I love Bayesian statistics and have keen interest on the fundamental building blocks of compute and storage.  
 
 ## Blogs 
 The following blogs are written by me on various platforms. 
