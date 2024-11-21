@@ -27,6 +27,11 @@ I have a considerbly experience working on Deep learning. Presently my work focu
 ## Blogs 
 The following blogs are written by me on various platforms. 
 
+## GenAI 
+- [Diffusion models](https://github.com/prakashjayy/genai/blob/main/01_diffusion.ipynb)
+- [Variational AutoEncoders](https://github.com/prakashjayy/genai/blob/main/00_vae.ipynb)
+- [VQVAE](https://github.com/prakashjayy/genai/blob/main/02_vqvae.ipynb)
+
 ### Foundation models 
 - [CLIP](https://github.com/prakashjayy/computer_vision/blob/master/papers/Clip.ipynb)
 - [AIM - AutoRegressive Image models](https://medium.com/@14prakash/understanding-autoregressive-image-models-aim-introduced-by-apple-9efd06d097b5)
