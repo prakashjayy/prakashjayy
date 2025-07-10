@@ -22,7 +22,7 @@ You can find me at
 
 
 ## About me 🕴️
-I have a considerbly experience working on Deep learning. Presently my work focuses on generative AI in speech and vision space. At Qure I worked on medical imaging and prior to that at Fractal I worked on image analytics in the domain of satellite and retail. I love Bayesian statistics and have keen interest on the fundamental building blocks of compute and storage.  
+Working in the deep learning field for 8+ years now. Presently my work focuses on generative AI in speech and vision space. At Qure I worked on medical imaging and prior to that at Fractal I worked on image analytics in the domain of satellite and retail. I love Bayesian statistics and have keen interest on the fundamental building blocks of compute and storage.  
 
 ## Blogs 
 The following blogs are written by me on various platforms. 
