@@ -2,42 +2,61 @@
 
 My name is Prakash,
 
-Current - Research Scientist at [invideo.ai](https://ai.invideo.io/), Previously
-- Senior Director - Data science at [qure.ai](https://qure.ai/),
-- Data scientist @ [fractal.ai](https://fractal.ai/)
+Current - Research Scientist at [invideo.ai](https://ai.invideo.io/) working as Generative AI team lead building multi-model systems from last 2 years, Previously
+- At [qure.ai](https://qure.ai/) I worked as `Senior Director - Data science` leading 3D (CT scan - Chest and Brain) team for 3 years.
+- At [fractal.ai](https://fractal.ai/), worked as Data scientist for one year and later worked as Senior Data scientist for 2 years.
 
 You can find me at 
 
 <p align="center">
   <a href="https://twitter.com/14prakash">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/twitter/white">
-      <img alt="Twitter" title="twitter" height="48" width="48" src="https://cdn.simpleicons.org/twitter"></picture></a>
+    <img alt="X (Twitter)" title="X (Twitter)" height="48" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/prakash-vanapalli-99909b3a/">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+    <img alt="LinkedIn" title="LinkedIn" height="48" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
   <a href="https://medium.com/@14prakash">
-    <img alt="npm" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/medium"></a>
+    <img alt="Medium" title="Medium" height="48" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
 </p>
 
 
-
 ## About me 🕴️
-Working in the deep learning field for 8+ years now. Presently my work focuses on generative AI in speech and vision space. At Qure I worked on medical imaging and prior to that at Fractal I worked on image analytics in the domain of satellite and retail. I love Bayesian statistics and have keen interest on the fundamental building blocks of compute and storage.  
+Working in the deep learning field for 9+ years now. I like to learn things from scratch and would like to write and teach about them. I am known for detailing and u can see me write reports on all my findings. My major focus for any project starts with gathering information, data and evaluation setup. I focus on understanding basics and take a mathematical approach to any problem statement. 
+
+### List of projects I worked and were productionized.  
+
+- Talking heads: Multimodal Generative AI system. Trained on 5k+ hours of audio+video data. [2025]
+- SyncNet: CLIP type model for audio+video alignment. Trained on 10k+ hours of audio+video data. [2024]
+- Identifying defects from Product X-rays. Non-destructive testing . self supervision (200k+ images) + semantic segmentation (25k+ images).
+- 3D object detection: Finding nodules on Chest CT. Trained on 200k CT Scans. [2023]
+- Identifying Humans in drone footage - thermal and normal cameras - Trained on 100+ hours of data. [2022]
+- Quantifying brand presence in retail shelfs. Detecting 200+ objects from single images and identifying 5000+ SKUs. Trained on 100k+ images [2020-21]
+- Identifying diabetic retinopathy from Eye Images. Trained on 50k images [2018]
+
+## Competitions 
+Below are some competations where I was in Top-25
+- [Using focal loss on deep recommender systems](https://medium.com/@14prakash/using-focal-loss-for-deep-recommender-systems-9a7a87ca6415) - 14th Position
+- [AV-Fractal-hiring hackathon on Forecasting](https://medium.com/@14prakash/loved-moving-averages-should-explore-much-beyond-av-hiring-hackathon-22f5dfa161a0) - 9th Position
 
 ## Blogs 
 The following blogs are written by me on various platforms. 
+- All my generative AI blogs are written [here](https://github.com/prakashjayy/genai). details on diffusion, flow, score and GAN based models are detailed.
+- some of blogs on foundation models were written [here](https://github.com/prakashjayy/image_foundations)
 
-## GenAI 
+
+### GenAI 
 - [Diffusion models](https://github.com/prakashjayy/genai/blob/main/01_diffusion.ipynb)
+- [Diffusion transformers](https://github.com/prakashjayy/genai/blob/main/04_dit.ipynb)
 - [Variational AutoEncoders](https://github.com/prakashjayy/genai/blob/main/00_vae.ipynb)
 - [VQVAE](https://github.com/prakashjayy/genai/blob/main/02_vqvae.ipynb)
+- [A primer on score based generative modelling](https://github.com/prakashjayy/genai/blob/main/score/README.md)
+- [A primer on flow based generative modelling](https://github.com/prakashjayy/genai/tree/main/flow)
 
 ### Foundation models 
 - [CLIP](https://github.com/prakashjayy/computer_vision/blob/master/papers/Clip.ipynb)
 - [AIM - AutoRegressive Image models](https://medium.com/@14prakash/understanding-autoregressive-image-models-aim-introduced-by-apple-9efd06d097b5)
 - [SimMIM - A simple framework for Masked Image Modelling](https://medium.com/@14prakash/masked-image-modelling-a850db162259)
-  
-### Transformers 
 - [vision transformers](https://github.com/prakashjayy/computer_vision/blob/master/papers/vision_transformers.ipynb)
 
 ### object detection 
@@ -55,10 +74,6 @@ The following blogs are written by me on various platforms.
 - Understanding Resnet and Resnext [Part1](https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cf51669e1624) [Part2](https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cc5d0adf648e)
 - [Almost any image classification using Pytorch-2018](https://medium.com/@14prakash/almost-any-image-classification-problem-using-pytorch-i-am-in-love-with-pytorch-26c7aa979ec4)
 - [Transfer learning using keras - 2017](https://medium.com/@14prakash/transfer-learning-using-keras-d804b2e04ef8)
-
-### Competitions 
-- [Using focal loss on deep recommender systems](https://medium.com/@14prakash/using-focal-loss-for-deep-recommender-systems-9a7a87ca6415)
-- [AV-Fractal-hiring hackathon on Forecasting](https://medium.com/@14prakash/loved-moving-averages-should-explore-much-beyond-av-hiring-hackathon-22f5dfa161a0)
 
 ### Others
 - [Intro to self-supervised learning 2020](https://medium.com/@fractal.ai/self-supervised-representation-learning-d76c1e3e9040)
