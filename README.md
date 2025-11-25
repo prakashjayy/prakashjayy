@@ -22,7 +22,7 @@ You can find me at
 
 
 ## About me 🕴️
-Working in the deep learning field for 9+ years now. I like to learn things from scratch and would like to write and teach about them. I am known for detailing and u can see me write reports on all my findings. My major focus for any project starts with gathering information, data and evaluation setup. I focus on understanding basics and take a mathematical approach to any problem statement. 
+I have been working in the deep learning field for over 9 years. I enjoy learning things from scratch and love writing and teaching about them. I am known for my attention to detail—you'll often find me documenting my findings in thorough reports. For any project, I start by gathering information, collecting data, and establishing a solid evaluation framework. I focus on understanding the fundamentals and take a mathematical approach to every problem.
 
 ### List of projects I worked and were productionized.  
 
