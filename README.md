@@ -2,9 +2,9 @@
 
 My name is Prakash,
 
-Current - Research Scientist at [invideo.ai](https://ai.invideo.io/) working as Generative AI team lead building multi-model systems from last 2 years, Previously
+Current - `Research Scientist` at [invideo.ai](https://ai.invideo.io/) working as Generative AI team lead building multi-model systems from last 2 years, Previously
 - At [qure.ai](https://qure.ai/) I worked as `Senior Director - Data science` leading 3D (CT scan - Chest and Brain) team for 3 years.
-- At [fractal.ai](https://fractal.ai/), worked as Data scientist for one year and later worked as Senior Data scientist for 2 years.
+- At [fractal.ai](https://fractal.ai/), worked as `Data scientist` for one year and later worked as `Senior Data scientist` for 2 years.
 
 You can find me at 
 
@@ -24,15 +24,15 @@ You can find me at
 ## About me 🕴️
 I have been working in the deep learning field for over 9 years. I enjoy learning things from scratch and love writing and teaching about them. I am known for my attention to detail—you'll often find me documenting my findings in thorough reports. For any project, I start by gathering information, collecting data, and establishing a solid evaluation framework. I focus on understanding the fundamentals and take a mathematical approach to every problem.
 
-### List of projects I worked and were productionized.  
+### List of projects I worked and went into production.  
 
 - Talking heads: Multimodal Generative AI system. Trained on 5k+ hours of audio+video data. [2025]
-- SyncNet: CLIP type model for audio+video alignment. Trained on 10k+ hours of audio+video data. [2024]
-- Identifying defects from Product X-rays. Non-destructive testing . self supervision (200k+ images) + semantic segmentation (25k+ images).
+- SyncNet: Contrastive learning, CLIP type model for audio+video alignment. Trained on 10k+ hours of audio+video data. [2024]
+- Identifying defects from Product X-rays. Non-destructive testing . self supervision (200k+ images) + segmentation (25k+ images).
 - 3D object detection: Finding nodules on Chest CT. Trained on 200k CT Scans. [2023]
-- Identifying Humans in drone footage - thermal and normal cameras - Trained on 100+ hours of data. [2022]
-- Quantifying brand presence in retail shelfs. Detecting 200+ objects from single images and identifying 5000+ SKUs. Trained on 100k+ images [2020-21]
-- Identifying diabetic retinopathy from Eye Images. Trained on 50k images [2018]
+- 2D object detection: Identifying Humans in drone footage - thermal and normal cameras - Trained on 100+ hours of data. [2022]
+- 2D object detection and long tail classification: Quantifying brand presence in retail shelfs, Detecting 200+ objects from single image and identifying 5000+ SKUs. Trained on 100k+ images [2020-21]
+- Image classification: Identifying diabetic retinopathy from Eye Images. Trained on 50k images [2018]. `This is not productionized`
 
 ## Competitions 
 Below are some competations where I was in Top-25
