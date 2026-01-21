@@ -32,7 +32,7 @@ I have been working in the deep learning field for over 9 years. I enjoy learnin
 - 3D object detection: Finding nodules on Chest CT. Trained on 200k CT Scans. [2023]
 - 2D object detection: Identifying Humans in drone footage - thermal and normal cameras - Trained on 100+ hours of data. [2022]
 - 2D object detection and long tail classification: Quantifying brand presence in retail shelfs, Detecting 200+ objects from single image and identifying 5000+ SKUs. Trained on 100k+ images [2020-21]
-- Image classification: Identifying diabetic retinopathy from Eye Images. Trained on 50k images [2018]. `This is not productionized`
+- Image classification: Identifying diabetic retinopathy from Eye Images. Trained on 50k images [2018]. `This is more of a research project`
 
 ## Competitions 
 Below are some competations where I was in Top-25
