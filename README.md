@@ -4,7 +4,7 @@ My name is Prakash,
 
 Current - `AI Research Scientist` at [invideo.ai](https://ai.invideo.io/) working as Generative AI team lead building multi-model systems from last 1.5 year, Previously
 - At [qure.ai](https://qure.ai/) I worked as `Senior Director - Data science` leading 3D (CT scan - Chest and Brain) team for 3 years.
-- At [fractal.ai](https://fractal.ai/), worked as `Data scientist` for one year and later worked as `Senior Data scientist` for 4 years.
+- At [fractal.ai](https://fractal.ai/), worked as `Data scientist` for one year and later worked as `Senior Data scientist` for 3 years.
 
 You can find me at 
 
