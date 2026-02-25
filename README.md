@@ -2,9 +2,9 @@
 
 My name is Prakash,
 
-Current - `Research Scientist` at [invideo.ai](https://ai.invideo.io/) working as Generative AI team lead building multi-model systems from last 2 years, Previously
+Current - `AI Research Scientist` at [invideo.ai](https://ai.invideo.io/) working as Generative AI team lead building multi-model systems from last 1.5 year, Previously
 - At [qure.ai](https://qure.ai/) I worked as `Senior Director - Data science` leading 3D (CT scan - Chest and Brain) team for 3 years.
-- At [fractal.ai](https://fractal.ai/), worked as `Data scientist` for one year and later worked as `Senior Data scientist` for 2 years.
+- At [fractal.ai](https://fractal.ai/), worked as `Data scientist` for one year and later worked as `Senior Data scientist` for 4 years.
 
 You can find me at 
 
@@ -26,7 +26,7 @@ I have been working in the deep learning field for over 9 years. I enjoy learnin
 
 ### List of projects I worked and went into production.  
 
-- Talking heads: Multimodal Generative AI system. Trained on 5k+ hours of audio+video data. [2025]
+- Talking heads: Multimodal Generative AI system. Trained GAN models on 5k+ hours of audio+video data. experimenting with diffusion foundational models now [2025]
 - SyncNet: Contrastive learning, CLIP type model for audio+video alignment. Trained on 10k+ hours of audio+video data. [2024]
 - Identifying defects from Product X-rays. Non-destructive testing . self supervision (200k+ images) + segmentation (25k+ images).
 - 3D object detection: Finding nodules on Chest CT. Trained on 200k CT Scans. [2023]
