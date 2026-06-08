@@ -45,6 +45,18 @@ The following blogs are written by me on various platforms.
 - some of blogs on foundation models were written [here](https://github.com/prakashjayy/image_foundations)
 
 
+## Key writings 
+- [How HDR images/videos captured by cameras](https://github.com/carbon2silicon/hdr-pipe/blob/main/hdr_imaging.md) - June 2026
+- [Hierarical binary quantization in VAEs](https://x.com/14prakash/status/2056046828689510409) - May 2026
+- [Tribev2 features to test ads effectiveness](https://x.com/14prakash/status/2047834529277390978) - April 2026
+- [How JEPA works ? Train on MNIST](https://x.com/14prakash/status/2036289818204971472) - March 2026
+- [A first principles thinking of how Diffusion models are designed from score based perspective](https://github.com/prakashjayy/genai/blob/main/score/04_connecting_denoising_autoencoders_with_sm.ipynb) - June 2025
+- [Variational AutoEncoders - Understanding from First principles](https://github.com/prakashjayy/genai/blob/main/00_vae.ipynb) - April 2025
+- [Understanding Object detection metrics and errors through code - write your own pycocotools version](https://github.com/prakashjayy/computer_vision/blob/master/papers/Understanding_object_detection_metrics_and_errors.ipynb) - Sep 2024
+- [A simple mathematical formula behind ResNet](https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cf51669e1624) Feb 2018
+- [Backpropogation is simple. who made it complicated?](https://medium.com/p/97b794c97e5c) Feb 2017
+
+
 ### GenAI 
 - [Diffusion models](https://github.com/prakashjayy/genai/blob/main/01_diffusion.ipynb)
 - [Diffusion transformers](https://github.com/prakashjayy/genai/blob/main/04_dit.ipynb)
