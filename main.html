@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Prakash Vanapalli — Resume</title>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  @page { size: A4; margin: 0; }
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --primary: #1a2f44;
+    --accent: #2c6faa;
+    --dark: #1e1e1e;
+    --medium: #555;
+    --light: #888;
+    --border: #d0d5db;
+    --bg: #ffffff;
+    --subtle-bg: #f7f8fa;
+  }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    color: var(--dark);
+    background: var(--bg);
+    font-size: 9.2pt;
+    line-height: 1.45;
+    width: 210mm;
+    min-height: 297mm;
+    margin: 0 auto;
+    padding: 28px 36px 24px;
+  }
+
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  /* Header */
+  .header { text-align: center; margin-bottom: 14px; }
+  .header h1 {
+    font-family: 'Source Serif 4', serif;
+    font-size: 22pt;
+    font-weight: 700;
+    color: var(--primary);
+    letter-spacing: 1.5px;
+    margin-bottom: 6px;
+  }
+  .contact {
+    font-size: 8.8pt;
+    color: var(--medium);
+  }
+  .contact a { color: var(--accent); }
+  .contact .sep { color: var(--border); margin: 0 6px; }
+
+  /* Divider */
+  .divider {
+    border: none;
+    border-top: 1.5px solid var(--accent);
+    margin: 12px 0;
+    opacity: 0.4;
+  }
+
+  /* Section */
+  .section-title {
+    font-family: 'Source Serif 4', serif;
+    font-size: 10pt;
+    font-weight: 700;
+    color: var(--primary);
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    margin-bottom: 6px;
+  }
+
+  /* Summary */
+  .summary {
+    font-size: 9pt;
+    color: var(--medium);
+    line-height: 1.5;
+    margin-bottom: 2px;
+  }
+
+  /* Key publications */
+  .pub-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3px 24px;
+    margin: 6px 0 4px;
+  }
+  .pub-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 2.5px 0;
+  }
+  .pub-item .pub-title {
+    font-size: 8.8pt;
+    font-weight: 500;
+  }
+  .pub-item .pub-title::before {
+    content: "▸ ";
+    color: var(--accent);
+    font-size: 8pt;
+  }
+  .pub-item .pub-date {
+    font-size: 8pt;
+    color: var(--light);
+    font-style: italic;
+    white-space: nowrap;
+    margin-left: 8px;
+  }
+  .pub-footer {
+    font-size: 8.2pt;
+    color: var(--light);
+    margin-top: 4px;
+  }
+
+  /* Experience */
+  .job {
+    margin-bottom: 8px;
+  }
+  .job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 1px;
+  }
+  .job-title {
+    font-weight: 600;
+    font-size: 9.2pt;
+    color: var(--dark);
+  }
+  .job-company a {
+    font-weight: 500;
+  }
+  .job-date {
+    font-size: 8.2pt;
+    color: var(--light);
+    font-style: italic;
+  }
+  .job-location {
+    font-size: 8pt;
+    color: var(--light);
+    font-style: italic;
+    margin-bottom: 2px;
+  }
+  .job ul {
+    margin: 2px 0 0 14px;
+    padding: 0;
+  }
+  .job li {
+    font-size: 8.8pt;
+    color: var(--medium);
+    margin-bottom: 1.5px;
+    padding-left: 2px;
+  }
+  .job li::marker {
+    color: var(--accent);
+    font-size: 7pt;
+  }
+
+  /* Two column bottom */
+  .bottom-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 32px;
+  }
+
+  /* Skills */
+  .skill-row {
+    font-size: 8.8pt;
+    margin-bottom: 2px;
+  }
+  .skill-label {
+    font-weight: 600;
+    color: var(--dark);
+  }
+  .skill-value {
+    color: var(--medium);
+  }
+
+  /* Education */
+  .edu-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-size: 9pt;
+  }
+  .edu-date {
+    font-size: 8.2pt;
+    color: var(--light);
+    font-style: italic;
+  }
+
+  /* Competitions */
+  .comp-item {
+    font-size: 8.8pt;
+    color: var(--medium);
+    margin-bottom: 1.5px;
+  }
+
+  @media print {
+    body { padding: 24px 32px 20px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>PRAKASH VANAPALLI</h1>
+  <div class="contact">
+    <a href="mailto:vanapaliprakash@gmail.com">vanapaliprakash@gmail.com</a>
+    <span class="sep">|</span>
+    +91 9158549758
+    <span class="sep">|</span>
+    <a href="https://www.linkedin.com/in/prakash-vanapalli-99909b3a/">LinkedIn</a>
+    <span class="sep">|</span>
+    <a href="https://twitter.com/14prakash">X (Twitter)</a>
+    <span class="sep">|</span>
+    <a href="https://medium.com/@14prakash">Medium</a>
+    <span class="sep">|</span>
+    <a href="https://github.com/prakashjayy">GitHub</a>
+  </div>
+</div>
+
+<hr class="divider">
+
+<div class="section-title">Professional Summary</div>
+<p class="summary">
+  Deep learning professional with over 9 years of experience building and shipping production AI systems across computer vision, medical imaging, and generative AI. I take a first-principles approach to every problem — starting with the mathematics, understanding why things work, and building from there. Known for attention to detail, rigorous evaluation frameworks, and thorough documentation. Experienced in leading teams and taking projects from research to production at scale.
+</p>
+
+<hr class="divider">
+
+<div class="section-title">Selected Research & Technical Writing</div>
+<div class="pub-grid">
+  <div class="pub-item">
+    <span class="pub-title"><a href="https://github.com/carbon2silicon/hdr-pipe/blob/main/hdr_imaging.md">How HDR Images/Videos Are Captured by Cameras</a></span>
+    <span class="pub-date">Jun 2026</span>
+  </div>
+  <div class="pub-item">
+    <span class="pub-title"><a href="https://x.com/14prakash/status/2056046828689510409">Hierarchical Binary Quantization in VAEs</a></span>
+    <span class="pub-date">May 2026</span>
+  </div>
+  <div class="pub-item">
+    <span class="pub-title"><a href="https://x.com/14prakash/status/2047834529277390978">Tribev2 Features to Test Ads Effectiveness</a></span>
+    <span class="pub-date">Apr 2026</span>
+  </div>
+  <div class="pub-item">
+    <span class="pub-title"><a href="https://x.com/14prakash/status/2036289818204971472">How JEPA Works — Train on MNIST</a></span>
+    <span class="pub-date">Mar 2026</span>
+  </div>
+  <div class="pub-item">
+    <span class="pub-title"><a href="https://github.com/prakashjayy/genai/blob/main/score/04_connecting_denoising_autoencoders_with_sm.ipynb">Diffusion Models — Score-Based First Principles</a></span>
+    <span class="pub-date">Jun 2025</span>
+  </div>
+  <div class="pub-item">
+    <span class="pub-title"><a href="https://github.com/prakashjayy/genai/blob/main/00_vae.ipynb">Variational AutoEncoders from First Principles</a></span>
+    <span class="pub-date">Apr 2025</span>
+  </div>
+  <div class="pub-item">
+    <span class="pub-title"><a href="https://github.com/prakashjayy/computer_vision/blob/master/papers/Understanding_object_detection_metrics_and_errors.ipynb">Object Detection Metrics — Write Your Own Pycocotools</a></span>
+    <span class="pub-date">Sep 2024</span>
+  </div>
+  <div class="pub-item">
+    <span class="pub-title"><a href="https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cf51669e1624">A Simple Mathematical Formula Behind ResNet</a></span>
+    <span class="pub-date">Feb 2018</span>
+  </div>
+  <div class="pub-item">
+    <span class="pub-title"><a href="https://medium.com/p/97b794c97e5c">Backpropagation Is Simple. Who Made It Complicated?</a></span>
+    <span class="pub-date">Feb 2017</span>
+  </div>
+</div>
+<p class="pub-footer">Complete list of 25+ technical articles covering generative AI, foundation models, object detection, and classification: <a href="https://github.com/prakashjayy/prakashjayy/blob/main/README.md">github.com/prakashjayy</a></p>
+
+<hr class="divider">
+
+<div class="section-title">Professional Experience</div>
+
+<div class="job">
+  <div class="job-header">
+    <span><span class="job-title">AI Research Scientist – GenAI Team Lead</span> <span class="sep" style="color:var(--border);margin:0 4px;">|</span> <span class="job-company"><a href="https://ai.invideo.io/">InVideo AI</a></span></span>
+    <span class="job-date">Jul 2024 – Apr 2026</span>
+  </div>
+  <div class="job-location">Mumbai, Maharashtra</div>
+  <ul>
+    <li>Led the Generative AI team, building multi-model systems for AI-powered video creation.</li>
+    <li>Speech Enhancement (2026): Converted normal audio recordings to studio-quality output.</li>
+    <li>Talking Heads: Trained a multimodal generative system on 5,000+ hours of audio-video data (2025).</li>
+    <li>SyncNet: Built a CLIP-type contrastive model for audio-video alignment on 10,000+ hours of data (2024).</li>
+  </ul>
+</div>
+
+<div class="job">
+  <div class="job-header">
+    <span><span class="job-title">Director, Data Science</span> <span class="sep" style="color:var(--border);margin:0 4px;">|</span> <span class="job-company"><a href="https://qure.ai/">Qure.ai</a></span></span>
+    <span class="job-date">May 2022 – Jun 2024</span>
+  </div>
+  <div class="job-location">Bengaluru, Karnataka</div>
+  <ul>
+    <li>Led the 3D medical imaging team (Chest & Brain CT). Awarded 'Will of Steel' for R&D contributions.</li>
+    <li>3D nodule detection on chest CTs trained on 200,000+ scans. Human detection on drone footage (thermal + normal).</li>
+  </ul>
+</div>
+
+<div class="job">
+  <div class="job-header">
+    <span><span class="job-title">Senior Data Scientist</span> <span class="sep" style="color:var(--border);margin:0 4px;">|</span> <span class="job-company"><a href="https://qure.ai/">Qure.ai</a></span></span>
+    <span class="job-date">Jul 2021 – May 2022</span>
+  </div>
+  <div class="job-location">Bengaluru, Karnataka</div>
+  <ul>
+    <li>Clinical research and deep learning for 3D medical imaging systems.</li>
+  </ul>
+</div>
+
+<div class="job">
+  <div class="job-header">
+    <span><span class="job-title">Senior Data Scientist</span> <span class="sep" style="color:var(--border);margin:0 4px;">|</span> <span class="job-company"><a href="https://fractal.ai/">Fractal AI</a></span></span>
+    <span class="job-date">Oct 2018 – Jul 2021</span>
+  </div>
+  <div class="job-location">Mumbai</div>
+  <ul>
+    <li>Retail shelf analytics: 200+ objects per image, 5,000+ SKU classification on 100K+ images. X-ray defect detection via self-supervised learning (200K+ images) + segmentation (25K+ images).</li>
+  </ul>
+</div>
+
+<div class="job">
+  <div class="job-header">
+    <span><span class="job-title">Data Scientist</span> <span class="sep" style="color:var(--border);margin:0 4px;">|</span> <span class="job-company"><a href="https://fractal.ai/">Fractal AI</a></span></span>
+    <span class="job-date">Sep 2017 – Sep 2018</span>
+  </div>
+  <div class="job-location">Mumbai</div>
+  <ul>
+    <li>Diabetic retinopathy detection from eye images, trained on 50,000+ images.</li>
+  </ul>
+</div>
+
+<div class="job">
+  <div class="job-header">
+    <span><span class="job-title">Junior Data Scientist</span> <span class="sep" style="color:var(--border);margin:0 4px;">|</span> <span class="job-company">Lemoxo Technologies</span></span>
+    <span class="job-date">Aug 2016 – Sep 2017</span>
+  </div>
+  <ul>
+    <li>Peer-to-peer lending loan risk models for credit risk assessment and default prediction.</li>
+  </ul>
+</div>
+
+<hr class="divider">
+
+<div class="bottom-grid">
+  <div>
+    <div class="section-title">Education</div>
+    <div class="edu-row">
+      <span><strong>B.Tech, Mechanical Engineering</strong> — IIT (ISM) Dhanbad</span>
+      <span class="edu-date">2010 – 2014</span>
+    </div>
+  </div>
+  <div>
+    <div class="section-title">Technical Skills</div>
+    <div class="skill-row"><span class="skill-label">Stack:</span> <span class="skill-value">Python, PyTorch, Linux, Docker, Git, TensorRT, torch.compile</span></div>
+    <div class="skill-row"><span class="skill-label">Domains:</span> <span class="skill-value">Generative AI, 3D/2D Object Detection, Medical Imaging, Self-Supervised & Contrastive Learning, Edge Optimization</span></div>
+  </div>
+</div>
+
+</body>
+</html>
